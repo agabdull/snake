@@ -1,0 +1,38 @@
+p{
+    color: gray;
+}
+
+table{
+    border: 2px solid white;
+    border-collapse: collapse;
+    width: 80%;
+    height: 85vh;
+}
+
+td{
+    border: 1px solid white;
+    border-collapse: collapse; 
+    width: 2.25%;
+}
+
+.on{
+    background-color: white;
+}
+
+.food{
+    background-color: green;
+}
+
+body{
+    color: gray;
+    background-color: black;
+}
+
+.gameOverRed{
+    background-color: red;
+}
+
+h1{
+    color: gray;
+    height: 5vh;
+}
